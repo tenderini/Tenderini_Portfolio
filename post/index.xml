@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Alessandro Tenderini</title>
+    <link>https://tenderini.github.io/Tenderini_Portfolio/post/</link>
+    <description>Recent content in Projects on Alessandro Tenderini</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Jun 2023 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://tenderini.github.io/Tenderini_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Q-Learning and Actor-Critic Methods in the Cart Pole Environment</title>
+      <link>https://tenderini.github.io/Tenderini_Portfolio/post/project8/</link>
+      <pubDate>Tue, 27 Jun 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tenderini.github.io/Tenderini_Portfolio/post/project8/</guid>
+      <description>This reinforcement learning project conducts a detailed comparison of four algorithms within the Cart Pole environment of the OpenAI Gym API, focusing on both action-value methods, such as discrete and Deep Q-learning, and policy-gradient methods, including a baseline actor-critic algorithm and Proximal Policy Optimization (PPO). The study implements these strategies in Python to explore their effectiveness in maintaining the balance of a pole on a moving cart. It assesses their performance across various training episodes, utilizing discretization techniques for state spaces in Q-learning and neural networks for function approximation in deep learning models.</description>
+    </item>
+    
+    <item>
+      <title>Non-Linear Dimensionality Reduction for Macroeconomic Forecasting</title>
+      <link>https://tenderini.github.io/Tenderini_Portfolio/post/project1/</link>
+      <pubDate>Sun, 04 Jun 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tenderini.github.io/Tenderini_Portfolio/post/project1/</guid>
+      <description>Our research delves into the realm of macroeconomic forecasting, specifically investigating if non-linear dimensionality reduction techniques can outperform traditional linear models. We introduce a new non-linear model, the Time-Varying Principal Component Regression (TV-PCR), and use the FRED-MD dataset, which includes various U.S. economic time series, for our analysis. Our study compares the performance of linear and non-linear methods in forecasting, revealing that non-linear models outperform linear ones at nowcasting and forecasting the U.</description>
+    </item>
+    
+    <item>
+      <title>Deep Dynamic Factor Models for Stock Price Forecasting</title>
+      <link>https://tenderini.github.io/Tenderini_Portfolio/post/project2/</link>
+      <pubDate>Fri, 17 Mar 2023 11:15:58 -0400</pubDate>
+      
+      <guid>https://tenderini.github.io/Tenderini_Portfolio/post/project2/</guid>
+      <description>Dynamic Factor Models (DFM) are a widespread class of linear models for macroeconomic and financial forecasting. We build on the framework introduced by Andreini, Izzo e Ricco (2020) to generalize the DFM to the non-linear case. The Deep Dynamic Factor Model (D2FM) that they propose uses autoencoders for approximating the non-linear mapping between the observed variables and the latent states. We extend the analysis using GRU networks for modelling the dynamics of the latent states.</description>
+    </item>
+    
+    <item>
+      <title>A Causal Analysis of Job Training Data</title>
+      <link>https://tenderini.github.io/Tenderini_Portfolio/post/project5/</link>
+      <pubDate>Wed, 15 Mar 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tenderini.github.io/Tenderini_Portfolio/post/project5/</guid>
+      <description>In this project, we analyze data from the National Supported Work (NSW) program to try to learn the causal effect of the program on income. We treat the data as a random experiment and employ three different approaches for causal inference: Neyman’s estimator, Fisher’s exact test, and a Bayesian parametric approach. All three estimates indicate that the program had a positive effect on earnings of over 500 dollars but not exceeding 3,000 dollars.</description>
+    </item>
+    
+    <item>
+      <title>Exploring New Frontiers in Conformal Prediction: A Journey Beyond Exchangeability and Symmetry</title>
+      <link>https://tenderini.github.io/Tenderini_Portfolio/post/project3/</link>
+      <pubDate>Thu, 09 Mar 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tenderini.github.io/Tenderini_Portfolio/post/project3/</guid>
+      <description>The report builds upon the paper &amp;ldquo;Conformal Prediction Beyond Exchangeability&amp;rdquo; by R.F. Barber et al. and aims to explore the impact of lifting the usual assumptions of exchangeability and symmetry on both split and full conformal inference methods. Additionally, throughout the report we conduct a constant comparison of split and full conformal inference methods, taking into account the fact that there is a trade off between computational expensiveness/feasibility and statistical efficiency (split-full trade off).</description>
+    </item>
+    
+    <item>
+      <title>Predicting the Price of a “Small” Crypto-Currency Using Twitter-Based Sentiment Indicators</title>
+      <link>https://tenderini.github.io/Tenderini_Portfolio/post/project4/</link>
+      <pubDate>Fri, 03 Mar 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://tenderini.github.io/Tenderini_Portfolio/post/project4/</guid>
+      <description>This project aimed to investigate the impact of imperfect information on the future price of a new and small crypto-currency, Optimism. We collected tweets from the active trading community on Twitter for the entire lifespan of this crypto-currency to study the daily sentiment and evaluate its potential as a predictor for future prices. Our findings suggest that the sentiment index is not a useful predictor for future price, and this result is in line with the efficient market hypothesis.</description>
+    </item>
+    
+    <item>
+      <title>Comparing Bayesian and Frequentist Methods in Italian Income Analysis: A Microdata Perspective</title>
+      <link>https://tenderini.github.io/Tenderini_Portfolio/post/project6/</link>
+      <pubDate>Wed, 21 Dec 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://tenderini.github.io/Tenderini_Portfolio/post/project6/</guid>
+      <description>In this paper we examine the relationship between income and various individual characteristics using a micro dataset of survey data from Italy. Our aim is to predict the individual income target variable based on micro determinants for variables that can be used to identify and understand income differences among individuals. In the first part of our project, we use penalized likelihood regression to compare the performance of lasso and adaptive lasso.</description>
+    </item>
+    
+    <item>
+      <title>Robust Financial Modeling: Evaluating mOpt in CAPM Compared to OLS</title>
+      <link>https://tenderini.github.io/Tenderini_Portfolio/post/project7/</link>
+      <pubDate>Wed, 01 Jun 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://tenderini.github.io/Tenderini_Portfolio/post/project7/</guid>
+      <description>This work delves into the world of financial modeling, specifically examining the performance of the robust mOpt estimator in the Capital Asset Pricing Model (CAPM), in contrast to the traditional Ordinary Least Squares (OLS) method. Given the frequent occurrence of outliers in finance, especially in stock returns, a robust estimator that downweights such outliers could offer a more accurate reflection of systematic risk, better representing the general trends in stock returns.</description>
+    </item>
+    
+  </channel>
+</rss>
